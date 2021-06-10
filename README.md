@@ -1,5 +1,6 @@
 # InfiniteRunner
 
+#DESCRIPTION
 This is the first game created for UTSA's Game Development Course.
 The purpose of this game is to collect as many cheese as you can.
 The game ends when you fall off a platform or reach 0 hp.
